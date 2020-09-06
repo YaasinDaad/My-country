@@ -19,9 +19,9 @@ Translaters
 Every programming languages have unique translater and translering in his code 
 Translaters is desined own languages 
 Types of translaters 
-Compiler is translering the code in same time all of the code
-Interpreter is translering the code line by line sequinsis 
-Assembler is translarting is own language assemble language
+Compiler is translering the code in same time all of the code and also translate high level lamguage  code into machine code 1 and 0
+Interpreter is translering the code line by lin logical sequinsis as program is executed and also translate  high level lamguage code into machine code 1 and 0
+Assembler is translarting is own language assemble language and also translate code into machine code 1 and 0
 
 
 
