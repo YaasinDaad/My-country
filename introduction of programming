@@ -22,6 +22,12 @@ Types of translaters
 Compiler is translering the code in same time all of the code and also translate high level lamguage  code into machine code 1 and 0
 Interpreter is translering the code line by lin logical sequinsis as program is executed and also translate  high level lamguage code into machine code 1 and 0
 Assembler is translarting is own language assemble language and also translate code into machine code 1 and 0
+difrrence between programming language and scriptting language?
+programming language:-
+programming language are used to ceate standalone application or we can that installable application. progamming language uses compiler to connect hight level language into
+machine language like:-c,c++,java,python
+scripting language:-
+scripting languages are used to web application . scripting language uses interpreter to convert hight level language into machine language like:- perl,javascript,php,python 
 
 
 
